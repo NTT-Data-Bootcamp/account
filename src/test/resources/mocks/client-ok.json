@@ -1,0 +1,12 @@
+{
+    "identityDocumentType": "DNI",
+    "identityDocumentNumber": "41526253",
+    "name": "Julian",
+    "lastName": "Juarez",
+    "businessName": "",
+    "email": "everis@gmail.com",
+    "phoneNumber": "523955",
+	"birthday": "2000-12-01",
+    "clientType" : "PERSONNEL",
+    "idClientProfile": "PB"
+}
